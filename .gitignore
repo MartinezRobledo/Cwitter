@@ -1,0 +1,32 @@
+# Build
+build/
+bin/
+obj/
+
+# Ejecutables
+*.exe
+*.out
+
+# Objetos
+*.o
+*.obj
+
+# Code::Blocks
+*.layout
+*.depend
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Archivos temporales
+*.tmp
+
+# Datos de ejecución
+data/*.dat
+
+# Code::Blocks
+*.layout
+*.depend
